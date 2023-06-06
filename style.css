@@ -1,0 +1,173 @@
+.main
+{
+    position: absolute;
+    height: 550px;
+    width: 1400px;
+    margin-left: 30px;
+
+    
+}
+
+.head
+{
+    position: relative;
+
+}
+
+.shade
+{
+    background-color: rgba(0, 0, 0, 0.567);
+    height: 551px;
+    width: 1400px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.logo
+{
+
+    height: 35px;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.header1
+{
+    display: inline-block;
+   
+   background-color: white;
+   margin-top: 50px;
+   margin-left: 45px;
+}
+
+.side
+{
+    margin-left: 570px;
+    list-style: none;
+    float: right;
+    
+}
+.button
+{
+    display: block;
+    float: right;
+   
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    float: left;
+    color: gray;
+    
+}
+
+.button:hover
+{
+    color: white;
+    background-color: rgb(80, 197, 80);
+}
+
+.div2
+{
+    margin-top: 35px;
+    display: flex;
+    background-color: white;
+   padding-left: 20px;
+   flex-direction: column;
+   width: 300px;
+   margin-left: 55px;
+}
+
+.text1
+{
+    
+    border: 2px;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(213, 68, 68);
+    margin-left: 60px;
+    margin-top: 30px;
+    width: 100px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.text2
+{
+    padding-left: 55px;
+}
+
+.text3
+{
+    font-size: 13px;
+    color: gray;
+}
+
+.text4
+{
+    margin-top: 20px;
+   
+    margin-left: 50px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+   width: 120px;
+   margin-bottom: 30px;
+   color: white;
+   background-color: rgb(80, 197, 80);
+    
+}
+
+.container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.item
+{
+    
+  
+    width: 280px;
+    margin-left: 70px;
+}
+
+.img
+{
+    height: 150px;
+    width: 280px;
+    
+}
+
+.h1
+{
+ padding-left: 80px;
+ color: white;
+ background-color:  rgb(80, 197, 80);
+}
+
+#h2
+{
+    padding-left:70px;
+    background-color:  rgb(80, 197, 80);
+    color: white;
+}
+
+.txt1
+{
+    color: green;
+}
+.txt2
+{
+    color: rgb(198, 87, 87);
+}
+
+.txt3
+{
+    background-color:   rgb(80, 197, 80);
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 65px;
+}
